@@ -46,6 +46,7 @@ body {
     box-shadow: none;
     border: 2px solid black;
     font-family: 'Quicksand', sans-serif;
+    transition: 250ms linear;
 }
 
 .btn:hover {
